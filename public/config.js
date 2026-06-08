@@ -33,7 +33,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_TWITTER_HANDLE": "@the01100011",
   "VITE_SEO_THEME_COLOR": "#000000",
   "VITE_SEO_KEYWORDS": "dex, crypto, cryptocurrency, perps, perpetuals, BTC, Bitcoin, EHT, Ethereum, SOL, Solana, SP500, Crude Oil, trading, smart money, psi crypto, crptcpchk, nodes, decentralized exchange",
-  "VITE_AVAILABLE_LANGUAGES": "",
+  "VITE_AVAILABLE_LANGUAGES": "en",
   "VITE_USE_CUSTOM_PNL_POSTERS": "false",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "0",
   "VITE_TRADING_VIEW_COLOR_CONFIG": "",
